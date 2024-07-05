@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there I'm Dilek 👋
+I am a 4th year student of Computer Engineering at Bursa Technical University.
 
 <!--
 **Dilekyilmazz/Dilekyilmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
