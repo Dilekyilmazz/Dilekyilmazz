@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Profile Views:
 1[Profile Views](https://komarev.com/ghpvc/?username=Dilekyilmazz&color=blueviolet)
