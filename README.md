@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 Profile Views:
-1[Profile Views](https://komarev.com/ghpvc/?username=Dilekyilmazz&color=blueviolet)
+[Profile Views](https://komarev.com/ghpvc/?username=Dilekyilmazz&color=blueviolet)
