@@ -1,5 +1,10 @@
-### Hi there I'm Dilek 👋
-I am a 4th year student of Computer Engineering at Bursa Technical University.I love learning new technologies and applying them in projects.
+### Hi there, I'm Dilek 👋
+
+I am a Computer Engineering graduate from Bursa Technical University.  
+I am passionate about learning new technologies and applying them to real-world projects.  
+
+🚀 Always eager to explore, build, and share!  
+
 
 <!--
 **Dilekyilmazz/Dilekyilmazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
