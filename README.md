@@ -1,4 +1,4 @@
-### Hi there, I'm Dilek 👋
+### Hi there, I'm Dilek �
 
 I am a Computer Engineering graduate from Bursa Technical University.  
 I am passionate about learning new technologies and applying them to real-world projects.  
